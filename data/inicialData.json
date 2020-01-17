@@ -1,0 +1,43 @@
+{
+    "tarjetaResultados": [{
+        "usuarioNombres": "EMEL CELEDONIO RODRIGUEZ",
+        "usuarioActividad": "CEO",
+        "usuarioTelefono": "998860509",
+        "usuarioCorreo": "e.celedonio@brecomperu.io",
+        "usuarioDireccion": "Calle Los Tulipanes 266 Lince",  
+        "usuarioEmpresa": "BRECOMPERU",
+        "cardColor": null,
+        "cardType": "CORPORATIVO"
+        },
+        {
+            "usuarioNombres": "RODRIGO MONTE",
+            "usuarioActividad": "GERENTE GENERAL",
+            "usuarioTelefono": "987654321",
+            "usuarioCorreo": "rmonte@services.com",
+            "usuarioDireccion": "Av. Adas 1266 Santa Lucia",  
+            "usuarioEmpresa": "SERVICES",
+            "cardColor": null,
+            "cardType": "CORPORATIVO"
+        },
+        {
+            "usuarioNombres": "CARL DALUZ",
+            "usuarioActividad": "Analista Desarrollador",
+            "usuarioTelefono": "998860509",
+            "usuarioCorreo": "emel.celedonio@outlook.com",
+            "usuarioDireccion": "Calle Los Tulipanes 266 Lince",  
+            "usuarioEmpresa": "null",
+            "cardColor": null,
+            "cardType": "PERSONAL"
+        },
+        {
+            "usuarioNombres": "EMEL CELEDONIO",
+            "usuarioActividad": "Analista Desarrollador",
+            "usuarioTelefono": "998860509",
+            "usuarioCorreo": "emel.celedonio@outlook.com",
+            "usuarioDireccion": "Calle Los Tulipanes 266 Lince",  
+            "usuarioEmpresa": "null",
+            "cardColor": null,
+            "cardType": "PERSONAL"
+        }
+    ]
+}
